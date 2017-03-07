@@ -12,5 +12,5 @@ Hola, gente!
 Mi nombre es Jesse R. Jose y vivo en República Dominican.
 
 Me gusta el desarrollo de juegos y proyectos de código abierto. Me gustaría crear mi propio proyecto o unirse a uno.
-Yo uso game maker, atom, android studio, dreamweaver, visual studio para programar.
+Yo utilizo game maker, atom, android studio, dreamweaver, visual studio para programar.
 Utilizaré esta plataforma para conocer y conectar con otros desarrolladores, alrededor del mundo.
