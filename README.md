@@ -1,2 +1,16 @@
 # Hello-world
-This is a place to share and discuss ideas.
+About myselft/Sobre mi.
+
+Hi, people!
+My name is Jesse R. Jose. I'm from Dominicam Republic.
+
+I like game development and open source projects. I would like to create my own project or join one.
+I use game maker, atom, android studio, dreamweaver, visual studio for programing.
+I will use this plataform to know and conect with others developers, arround the world.
+
+Hola, gente!
+Mi nombre es Jesse R. Jose y vivo en República Dominican.
+
+Me gusta el desarrollo de juegos y proyectos de código abierto. Me gustaría crear mi propio proyecto o unirse a uno.
+Yo uso fabricante de juegos, átomo, estudio de Android, dreamweaver, estudio visual para la programación.
+Voy a utilizar esta plataforma para conocer y conectar con otros desarrolladores, alrededor del mundo.
