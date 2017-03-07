@@ -1,5 +1,5 @@
 # Hello-world
-About myselft/Sobre mi.
+About myself/Sobre mi.
 
 Hi, people!
 My name is Jesse R. Jose. I'm from Dominicam Republic.
